@@ -70,4 +70,13 @@
     width:100px;
 
 }
+
+.attribution { 
+    font-size: 20px; 
+    text-align: center; 
+    position: absolute;
+    top: 1500px;
+
+}
+.attribution a { color: hsl(228, 45%, 44%); }
 }
